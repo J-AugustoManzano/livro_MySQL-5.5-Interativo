@@ -1,1 +1,8 @@
-# livro_MySQL-5.5-Interativo
+# Livro: MySQL 5.5 - Interativo
+Guia Essencial de Orientação e Desenvolvimento
+
+O objetivo desta obra é ser um guia prático essencial de orientação e desenvolvimento para estudantes da área de Tecnologia da Informação (TI) que estejam iniciando o estudo de programas de gerenciamento de bancos de dados, desde que já possuam conhecimento e domínio da base de conhecimento relacionada aos fundamentos de bancos de dados. Este material também pode ser utilizado por autodidatas.
+
+A exposição do tema baseia-se no uso e prática do programa de gerenciamento de bancos de dados MySQL. O estudo é apresentado de forma dinâmica e didática, sempre acompanhado de uma instrução de aplicação e, quando possível, de uma imagem que mostra o resultado obtido a partir do uso de uma determinada instrução. Procurou-se escrever um material de rápida e fácil leitura, que aborda o assunto de forma direta. 
+
+O leitor terá a oportunidade de aprender criação, alteração, uso e remoção de bancos de dados e tabelas; consultas simples e sofisticadas; uso, remoção e atualização de registros; a técnica de utilização do arquivo morto, tema não abordado em livros sobre bancos de dados; operadores aritméticos, de comparação, lógicos e auxiliares; algumas das mais importantes funções da linguagem SQL existentes no programa MySQL; conceitos mais sofisticados que envolvem agrupamentos, uniões, junções e visualizações de tabelas; indexações e gerenciamento de usuários e, por último, terá contato sólido, apesar de básico, com a criação e utilização de stored procedures (procedimentos armazenados), desenvolvimento de functions (funções) e triggers (gatilhos). Todos estes temas são mostrados de forma bem direta, facilitando o rápido aprendizado. 
